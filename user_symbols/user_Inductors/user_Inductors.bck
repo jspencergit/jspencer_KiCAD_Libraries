@@ -1,0 +1,195 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74479977182
+D Wurth WE-PMMI Series 820 nH Metal Alloy Multilayer SMD Inductor, 0806 (2016M) Case, SRF: 20MHz 2A dc 112m Rdc
+F https://componentsearchengine.com/Datasheets/1/74479977182.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEER
+D VISHAY - IHLP1212AEERR22M11 - INDUCTOR, IHLP-1212AE-11, 0.22UH 20%
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEER1R0M11_
+D VISHAY - IHLP1212AEER1R0M11 - INDUCTOR, IHLP-1212AE-11, 1.0UH, 20%, 3.9A Idc
+K 1.0µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEER1R5M11_
+D VISHAY - IHLP1212AEER1R5M11 - INDUCTOR, IHLP-1212AE-11, 1.5UH, 20%, 2.A Idc
+K 1.5µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR22M11
+D VISHAY - IHLP1212AEERR22M11 - INDUCTOR, IHLP-1212AE-11, 0.22UH, 20%, 8.5A Idc
+K 0.22µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR33M11_
+D VISHAY - IHLP1212AEERR33M11 - INDUCTOR, IHLP-1212AE-11, 0.33UH, 20%, 7.0A Idc
+K 0.33µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR47M11_
+D VISHAY - IHLP1212AEERR47M11 - INDUCTOR, IHLP-1212AE-11, 0.47UH, 20%, 6.7A Idc
+K 0.47µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR56M11_
+D VISHAY - IHLP1212AEERR56M11 - INDUCTOR, IHLP-1212AE-11, 0.56UH, 20%, 6A Idc
+K 0.56µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR68M11_
+D VISHAY - IHLP1212AEERR68M11 - INDUCTOR, IHLP-1212AE-11, 0.68UH, 20%, 5.4A Idc
+K 0.68µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1212AEERR82M11_
+D VISHAY - IHLP1212AEERR82M11 - INDUCTOR, IHLP-1212AE-11, 0.82UH, 20%, 4.9A Idc
+K 0.82µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1212AEERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZER
+D Vishay IHLP1616BZ-01 Series Shielded Wire-wound SMD Inductor 0.1 uH +/-20% 35A Idc
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZER1R5M01
+D Vishay IHLP1616BZER1R5M01 Inductor 1.5 uH +/-20% 3.75A Idc
+K 1.5µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZER2R2M01
+D Vishay IHLP1616BZER2R2M01 Inductor 2.2 uH +/-20% 2.85A Idc
+K 2.2↨0H
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZERR10M01
+D Vishay IHLP1616BZERR10M01 Inductor 0.10 uH +/-20% 16.0A Idc
+K 0.10µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZERR1R0M01
+D Vishay IHLP1616BZERR47M01 Inductor 1.0 uH +/-20% 5.1A Idc
+K 1.0µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZERR22M01
+D Vishay IHLP1616BZERR22M01 Inductor 0.22 uH +/-20% 13A Idc
+K 0.22µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP1616BZERR47M01
+D Vishay IHLP1616BZERR47M01 Inductor 0.47 uH +/-20% 5.6A Idc
+K 0.47µH
+F https://componentsearchengine.com/Datasheets/1/IHLP1616BZERR10M01.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER10R
+D Vishay IHLP2020CZER10R Inductor 10 uH +/-20% 2.5A Idc
+K 10µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER15R
+D Vishay IHLP2020CZER15R Inductor 15 uH +/-20% 1.9A Idc
+K 15µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER1R0
+D Vishay IHLP2020CZER1R0 Inductor 1.0 uH +/-20% 9.2A Idc
+K 1.0µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER1R5
+D Vishay IHLP2020CZER1R5 Inductor 1.5 uH +/-20% 7.2A Idc
+K 1.5µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER2R2
+D Vishay IHLP2020CZER2R2 Inductor 2.2 uH +/-20% 5.8A Idc
+K 2.2µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER3R3
+D Vishay IHLP2020CZER3R3 Inductor 3.3 uH +/-20% 5.0A Idc
+K 03.3µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER4R7
+D Vishay IHLP2020CZER4R7 Inductor 4.7 uH +/-20% 3.5A Idc
+K 4.7µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZER5R6
+D Vishay IHLP2020CZER5R6 Inductor 5.6 uH +/-20% 3.0A Idc
+K 5.6µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR
+D Vishay IHLP2020CZ-11 Series Shielded Wire-wound SMD Inductor 0.22 uH +/-20% 21A Idc
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR10
+D Vishay IHLP2020CZERR10 Inductor 0.22 uH +/-20% 23A Idc
+K 0.1µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR22
+D Vishay IHLP2020CZERR33Inductor 0.22 uH +/-20% 15.5A Idc
+K 0.22µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR33
+D Vishay IHLP2020CZERR33 Inductor 0.33 uH +/-20% 13.7A Idc
+K 0.33µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR47
+D Vishay IHLP2020CZERR47 Inductor 0.47 uH +/-20% 12.2A Idc
+K 0.47µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR68
+D Vishay IHLP2020CZERR68 Inductor 0.68 uH +/-20% 10.2A Idc
+K 0.68µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP IHLP2020CZERR82
+D Vishay IHLP2020CZERR82 Inductor 0.82 uH +/-20% 9.3A Idc
+K 0.82µH
+F https://componentsearchengine.com/Datasheets/1/IHLP2020CZERR22M11.pdf
+$ENDCMP
+#
+$CMP SRF1260-470M
+F https://componentsearchengine.com/Datasheets/1/SRF1260-470M.pdf
+$ENDCMP
+#
+#End Doc Library

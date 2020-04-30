@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1985027
+D Fixed Terminal Blocks PTSA 1.5/ 8-3.5-F
+F http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf
+$ENDCMP
+#
+$CMP 1985195
+D PTSA 1,5/ 2-3,5-Z Phoenix Contact Non-Fused Terminal Block, 2 Way, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V
+F https://componentsearchengine.com/Datasheets/1/1985195.pdf
+$ENDCMP
+#
+$CMP 1985218
+D Fixed Terminal Blocks PTSA 1.5/4-3.5-Z
+F https://componentsearchengine.com/Datasheets/1/1985218.pdf
+$ENDCMP
+#
+$CMP 61300211021
+D Wurth Elektronik WR-PHD 6130, 2.54mm Pitch, 2 Way, 1 Row, Right Angle Pin Header, Through Hole
+F https://componentsearchengine.com/Datasheets/1/61300211021.pdf
+$ENDCMP
+#
+$CMP 613002143121
+D WR-PHD 2.54 mm Angled Socket Header, 2.54mm Pitch, 2 Way, 1 Row, Right Angle Pin Socket Through Hole
+F https://www.we-online.com/catalog/en/PHD_2_54_ANGLED_SOCKET_HEADER_6130XX143121/?sq=613002143121#613002143121
+$ENDCMP
+#
+$CMP HTSW-102-07-G-S
+F https://componentsearchengine.com/Datasheets/1/HTSW-102-07-G-S.pdf
+$ENDCMP
+#
+$CMP TSW-101-25-T-S
+F https://componentsearchengine.com/Datasheets/1/TSW-101-25-T-S.pdf
+$ENDCMP
+#
+#End Doc Library

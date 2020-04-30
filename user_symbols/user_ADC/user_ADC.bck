@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7768-4BSTZ-RL
+D Quad Channel Quad ADC Delta-Sigma 256ksps 24-bit Serial 64-Pin LQFP T/R
+F https://componentsearchengine.com/Datasheets/1/AD7768-4BSTZ-RL.pdf
+$ENDCMP
+#
+#End Doc Library

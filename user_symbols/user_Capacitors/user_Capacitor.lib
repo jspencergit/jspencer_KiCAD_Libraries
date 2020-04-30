@@ -1,0 +1,213 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 16TQC22MYFB
+#
+DEF 16TQC22MYFB C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "16TQC22MYFB" 350 150 50 H V L CNN
+F2 "user_footprints:CAPPM3528X200N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Tantalum Capacitors - Polymer SMD 16VDC 22uF 2.7A ESR 90mOhm" 350 -150 50 H I L CNN "Description"
+F5 "2" 350 -250 50 H I L CNN "Height"
+F6 "667-16TQC22MYFB" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=667-16TQC22MYFB" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Panasonic" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "16TQC22MYFB" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# C1608X7R1E105K080AE
+#
+DEF C1608X7R1E105K080AE C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C1608X7R1E105K080AE" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC1608X80N" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/C1608X7R1E105K080AE.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1uF 25volts X7R 10% Soft Term" 350 -150 50 H I L CNN "Description"
+F5 "0.8" 350 -250 50 H I L CNN "Height"
+F6 "810-C1608X7R1E105KAE" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-C1608X7R1E105KAE" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C1608X7R1E105K080AE" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# C2012X7R1C475K125AB
+#
+DEF C2012X7R1C475K125AB C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C2012X7R1C475K125AB" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC2012X145N" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/C2012X7R1C475K125AB.pdf" 350 -50 50 H I L CNN
+F4 "TDK 2012 C 4.7uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10%" 350 -150 50 H I L CNN "Description"
+F5 "1.45" 350 -250 50 H I L CNN "Height"
+F6 "810-C2012X7R1C475K" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-C2012X7R1C475K" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C2012X7R1C475K125AB" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# C3216X7R1C106K160AC
+#
+DEF C3216X7R1C106K160AC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C3216X7R1C106K160AC" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC3216X180N" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/C3216X7R1C106K160AC.pdf" 350 -50 50 H I L CNN
+F4 "1206 X7R ceramic capacitor 16V 10uF TDK C3216 C 10uF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric +/-10% SMD" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "810-C3216X7R1C106K" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-C3216X7R1C106K" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C3216X7R1C106K160AC" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# C3216X7R1H475K160AC
+#
+DEF C3216X7R1H475K160AC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C3216X7R1H475K160AC" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC3216X180N" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/C3216X7R1H475K160AC.pdf" 350 -50 50 H I L CNN
+F4 "TDK 1206 C 4.7uF Ceramic Multilayer Capacitor, 50 V dc, +125C, X7R Dielectric, +/-10%" 350 -150 50 H I L CNN "Description"
+F5 "1.8" 350 -250 50 H I L CNN "Height"
+F6 "810-C3216X7R1H475K" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-C3216X7R1H475K" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C3216X7R1H475K160AC" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# CGA2B1X7R1C104K050BC
+#
+DEF CGA2B1X7R1C104K050BC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CGA2B1X7R1C104K050BC" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC1005X55N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "TDK - CGA2B1X7R1C104K050BC - CAP, MLCC, X7R, 100NF, 16V, 0402" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "810-CGA2B1X7R1C104K" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-CGA2B1X7R1C104K" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CGA2B1X7R1C104K050BC" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# CGA9N3X7R1C476M230KB
+#
+DEF CGA9N3X7R1C476M230KB C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CGA9N3X7R1C476M230KB" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC5750X250N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "TDK 47uF Multilayer Ceramic Capacitor MLCC 16V dc +/-20% X7R Dielectric 2220 (5650M) SMD, Max. Temp. +125C" 350 -150 50 H I L CNN "Description"
+F5 "2.5" 350 -250 50 H I L CNN "Height"
+F6 "810-CGA9N3X7R1C476M" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=810-CGA9N3X7R1C476M" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CGA9N3X7R1C476M230KB" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# GRM155C81E105ME11J
+#
+DEF GRM155C81E105ME11J C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "GRM155C81E105ME11J" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC1005X55N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Capacitor GRM15_0.10 L=1.0mm W=0.5mm T=0.5mm" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "81-GRM155C81E105ME1J" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM155C81E105ME1J" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "GRM155C81E105ME11J" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TMK316BBJ226ML-T
+#
+DEF TMK316BBJ226ML-T C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "TMK316BBJ226ML-T" 350 150 50 H V L CNN
+F2 "user_footprints:CAPC3216X180N" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "Capacitor MLCC 1206 X5R 25V 22uF Taiyo Yuden 22uF Multilayer Ceramic Capacitor (MLCC) 25 V dc +/-20% X5R dielectric M Solder max op. temp. +85C" 350 -150 50 H I L CNN "Description"
+F5 "1.9" 350 -250 50 H I L CNN "Height"
+F6 "963-TMK316BBJ226ML-T" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=963-TMK316BBJ226ML-T" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TAIYO YUDEN" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "TMK316BBJ226ML-T" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 280 100 280 -100 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

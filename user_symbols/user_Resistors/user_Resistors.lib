@@ -1,0 +1,71 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CRE2512-FZ-R002E-2
+#
+DEF CRE2512-FZ-R002E-2 R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "CRE2512-FZ-R002E-2" 550 150 50 H V L CNN
+F2 "user_footprints:RESC6432X90N" 550 50 50 H I L CNN
+F3 "" 550 -50 50 H I L CNN
+F4 "Bourns CRE Series Metal Strip Current Sensing Surface Mount Resistor 2512 Case 2m +/-1% 2W +/-75ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "0.9" 550 -250 50 H I L CNN "Height"
+F6 "652-CRE2512FZR002E-2" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CRE2512FZR002E-2" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CRE2512-FZ-R002E-2" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# CRE2512-FZ-R002E-3
+#
+DEF CRE2512-FZ-R002E-3 R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "CRE2512-FZ-R002E-3" 550 150 50 H V L CNN
+F2 "user_footprints:RESC6434X90N" 550 50 50 H I L CNN
+F3 "" 550 -50 50 H I L CNN
+F4 "Bourns CRE Series Metal Strip Current Sensing Surface Mount Resistor 2512 Case 2m +/-1% 3W +/-75ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "0.9" 550 -250 50 H I L CNN "Height"
+F6 "652-CRE2512FZR002E-3" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CRE2512FZR002E-3" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CRE2512-FZ-R002E-3" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# LT5400BCMS8E-8#PBF
+#
+DEF LT5400BCMS8E-8#PBF RN 0 30 Y Y 1 F N
+F0 "RN" 650 300 50 H V L CNN
+F1 "LT5400BCMS8E-8#PBF" 650 200 50 H V L CNN
+F2 "user_footprints:SOP65P490X110-9N" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "LINEAR TECHNOLOGY - LT5400BCMS8E-8#PBF - RES N/W, PRECISION, 4 RES, 9K/1K, MSOP-8" 650 -100 50 H I L CNN "Description"
+F5 "1.1" 650 -200 50 H I L CNN "Height"
+F6 "584-5400BCMS8E-8PBF" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=584-5400BCMS8E-8PBF" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Linear Technology" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LT5400BCMS8E-8#PBF" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -600 200 -600 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 800 -300 200 L 50 50 0 0 P
+X 6 6 800 -200 200 L 50 50 0 0 P
+X 7 7 800 -100 200 L 50 50 0 0 P
+X 8 8 800 0 200 L 50 50 0 0 P
+X 9 9 400 -800 200 U 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

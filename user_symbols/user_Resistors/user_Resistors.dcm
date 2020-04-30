@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRE2512-FZ-R002E-2
+D Bourns CRE Series Metal Strip Current Sensing Surface Mount Resistor 2512 Case 2m +/-1% 2W +/-75ppm/C
+F https://componentsearchengine.com/Datasheets/1/CRE2512-FZ-R002E-2.pdf
+$ENDCMP
+#
+$CMP CRE2512-FZ-R002E-3
+F https://componentsearchengine.com/Datasheets/1/CRE2512-FZ-R002E-3.pdf
+$ENDCMP
+#
+$CMP LT5400BCMS8E-8#PBF
+F https://componentsearchengine.com/Datasheets/1/LT5400BCMS8E-8#PBF.pdf
+$ENDCMP
+#
+#End Doc Library

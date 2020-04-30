@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SG-210STF_25.0000ML3
+D Standard Clock Oscillators 25MHz 50ppm -40C +85C
+F https://componentsearchengine.com/Datasheets/1/SG-210STF 25.0000ML3.pdf
+$ENDCMP
+#
+#End Doc Library

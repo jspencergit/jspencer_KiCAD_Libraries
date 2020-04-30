@@ -1,0 +1,151 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1985027
+#
+DEF 1985027 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1985027" 650 200 50 H V L CNN
+F2 "user_footprints:SHDR8W80P0X350_1X8_2950X1200X1310P" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "Fixed Terminal Blocks PTSA 1.5/ 8-3.5-F" 650 -100 50 H I L CNN "Description"
+F5 "13.1" 650 -200 50 H I L CNN "Height"
+F6 "651-1985027" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1985027" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985027" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -800 200 -800 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 4 4 0 -300 200 R 50 50 0 0 U
+X 5 5 0 -400 200 R 50 50 0 0 U
+X 6 6 0 -500 200 R 50 50 0 0 U
+X 7 7 0 -600 200 R 50 50 0 0 U
+X 8 8 0 -700 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 1985195
+#
+DEF 1985195 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1985195" 650 200 50 H V L CNN
+F2 "user_footprints:1985195" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "PTSA 1,5/ 2-3,5-Z Phoenix Contact Non-Fused Terminal Block, 2 Way, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V" 650 -100 50 H I L CNN "Description"
+F5 "13" 650 -200 50 H I L CNN "Height"
+F6 "651-1985195" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1985195" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985195" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+X 1 1 800 0 200 L 50 50 0 0 U
+X 2 2 0 0 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 1985218
+#
+DEF 1985218 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1985218" 650 200 50 H V L CNN
+F2 "user_footprints:1985218" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "Fixed Terminal Blocks PTSA 1.5/4-3.5-Z" 650 -100 50 H I L CNN "Description"
+F5 "13.1" 650 -200 50 H I L CNN "Height"
+F6 "651-1985218" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1985218" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985218" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 800 0 200 L 50 50 0 0 U
+X 2 2 0 0 200 R 50 50 0 0 U
+X 3 3 800 -100 200 L 50 50 0 0 U
+X 4 4 0 -100 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 61300211021
+#
+DEF 61300211021 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "61300211021" 650 200 50 H V L CNN
+F2 "user_footprints:61300211021" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "Wurth Elektronik WR-PHD 6130, 2.54mm Pitch, 2 Way, 1 Row, Right Angle Pin Header, Through Hole" 650 -100 50 H I L CNN "Description"
+F5 "2" 650 -200 50 H I L CNN "Height"
+F6 "710-61300211021" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61300211021" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "61300211021" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 613002143121
+#
+DEF 613002143121 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "613002143121" 650 200 50 H V L CNN
+F2 "user_footprints:613002143121_PinSocket_1x02_P2.54mm_Horizontal" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "WR-PHD 2.54 mm Angled Socket Header" 650 -100 50 H I L CNN "Description"
+F5 "2" 650 -200 50 H I L CNN "Height"
+F6 "710-61300211021" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61300211021" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "613002143121" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# HTSW-102-07-G-S
+#
+DEF HTSW-102-07-G-S J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "HTSW-102-07-G-S" 650 200 50 H V L CNN
+F2 "user_footprints:HDRV2W64P0X254_1X2_508X248X838P" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "THROUGH-HOLE .025\" SQ POST HEADER" 650 -100 50 H I L CNN "Description"
+F5 "8.38" 650 -200 50 H I L CNN "Height"
+F6 "200-HTSW10207GS" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=200-HTSW10207GS" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "SAMTEC" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "HTSW-102-07-G-S" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# TSW-101-25-T-S
+#
+DEF TSW-101-25-T-S J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "TSW-101-25-T-S" 650 200 50 H V L CNN
+F2 "user_footprints:HDRV1W64P254_1X1_254X241X1067P" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "CONN HEADER 1 POS .100\"" 650 -100 50 H I L CNN "Description"
+F5 "10.67" 650 -200 50 H I L CNN "Height"
+F6 "200-TSW10125TS" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=200-TSW10125TS" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "SAMTEC" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TSW-101-25-T-S" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

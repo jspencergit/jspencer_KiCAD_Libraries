@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP150AUJZ-1.8-R7
+D Voltage Reg. Low Noise 150mA 1.8V TSOT5 Analog Devices ADP150AUJZ-1.8-R7, Single Linear Voltage Regulator, 150mA 1.8 V, -2.5  1.5%, 5-Pin TSOT
+F https://componentsearchengine.com/Datasheets/1/ADP150AUJZ-1.8-R7.pdf
+$ENDCMP
+#
+$CMP ADP7118ARDZ
+D LDO Linear Regulator 0.2A SOICN8 Analog Devices ADP7118ARDZ, LDO Voltage Regulator, Adjustable 200mA, 1.2  5 V +/-0.8%, 8-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/ADP7118ARDZ.pdf
+$ENDCMP
+#
+$CMP ADP7118AUJZ-3.3-R7
+D LDO Regulator Pos 3.3V 0.2A 5-Pin TSOT-23 T/R
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7118.pdf
+$ENDCMP
+#
+$CMP ADP7182AUJZ-R7
+D LDO Voltage Regulators -30V 200mA lo-noise Linear Reg adj
+F https://componentsearchengine.com/Datasheets/1/ADP7182AUJZ-R7.pdf
+$ENDCMP
+#
+$CMP LT8471EFE#PBF
+F https://www.mouser.com/datasheet/2/609/8471fd-1271432.pdf
+$ENDCMP
+#
+$CMP LT8609AIMSE#PBF
+F https://componentsearchengine.com/Datasheets/1/LT8609AIMSE#PBF.pdf
+$ENDCMP
+#
+$CMP LTC_MultiChannelPSM
+D LINEAR TECHNOLOGY - LT8645SIV#PBF - DC/DC CONV, SYNC BUCK, 2.2MHZ, LQFN-32
+F https://componentsearchengine.com/Datasheets/1/LT8645SIV#PBF.pdf
+$ENDCMP
+#
+#End Doc Library

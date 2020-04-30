@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1074
+D Coin Cell Battery Holders VERTICAL THM COIN CELL HOLDER
+F https://componentsearchengine.com/Datasheets/1/1074.pdf
+$ENDCMP
+#
+$CMP 967
+D KEYSTONE - 967 - BATTERY CONTACT, 9V, VERTICAL PCB SNAP-ON
+F http://www.keyelco.com/product-pdf.cfm?p=1071
+$ENDCMP
+#
+#End Doc Library

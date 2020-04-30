@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADR444BRZ
+D ADR444BRZ, Precision Voltage Reference 4.094 to 4.098V, 0.04% 10mA 20V max. 8-Pin SOIC
+F https://componentsearchengine.com/Datasheets/1/ADR444BRZ.pdf
+$ENDCMP
+#
+#End Doc Library
